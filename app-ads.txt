@@ -1,0 +1,3 @@
+# Authorized Sellers for Apps - https://iabtechlab.com/app-ads-txt/
+# Publisher: David Clayton (AdMob pub-4542383466294460)
+google.com, pub-4542383466294460, DIRECT, f08c47fec0942fa0
